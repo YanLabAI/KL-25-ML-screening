@@ -1,0 +1,18 @@
+# Core numerical / data stack
+numpy>=1.23,<2.0
+pandas>=1.5
+scipy>=1.9
+
+# Machine learning
+scikit-learn>=1.2
+xgboost>=1.7
+optuna>=3.0
+joblib>=1.2
+
+# Peptide descriptors
+modlamp>=4.3
+propy3>=1.1
+
+# Progress and figures
+matplotlib>=3.6
+tqdm>=4.64
